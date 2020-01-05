@@ -1,2 +1,2 @@
 # teamcity-python-egg-template
-1. Dockerfile
+This is test repo for local teamcity installation.
